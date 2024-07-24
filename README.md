@@ -1,3 +1,3 @@
 # MyResume
-![resume](https://github.com/user-attachments/assets/825fd522-f2cb-48be-a599-7fc9de25fa1d)
-[Download PDF](https://github.com/user-attachments/files/16323433/Ayaan-Siddiqui-Resume-USLetter.pdf)
+![](https://github.com/user-attachments/assets/45c3d0c0-d22d-4a4b-a73d-aff3b723ce7c)
+[Download](https://github.com/user-attachments/files/16360379/Ayaan-Siddiqui-Resume-USLetter.pdf)
